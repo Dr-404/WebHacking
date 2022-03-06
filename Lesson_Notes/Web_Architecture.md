@@ -2,12 +2,13 @@
 <br>
 
 
-![Web Archi](./webArchi.png)
+![Web Archi](./photo/webArchi.png)
 
 <br>
+
 # Client and server site <br>
 
-![Web Archi](./client&server.png)
+![Web Archi](./photo/client&server.png)
 
 ## Client Side
 
