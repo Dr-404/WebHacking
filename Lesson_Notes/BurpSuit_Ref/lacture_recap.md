@@ -23,7 +23,7 @@
 ----------------------
 #### 1. `http://testphp.vulnweb.com/`
 
-#### 2. `http://labs.zd/chapter1/DVWA`
+#### 2. `http://lab.awh.exdemy.com/chapter1/DVWA/login.php`
 <br>
 
 ## Example Wordlist
