@@ -1,8 +1,3 @@
-# 1. Install foxyproxy add on
-# 2. Add proxy `127.0.0.1:8080`
-# 3. Install Certificate
-	- Connect Burp and type "http://burpsuite"
-
 ## Ctrl+shift+U (Url Decode) not working solution
 
 ```
