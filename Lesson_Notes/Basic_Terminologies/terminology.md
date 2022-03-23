@@ -32,6 +32,10 @@
 
 - unique computer vulnerability that is unknown to victims and potentially unknown to everyone in the world except the creator of the zero-day exploit
 
-## 7. Cookes
+## 7. Phishing
+
+- Phishing is a type of social engineering where an attacker sends a fraudulent fake message designed to trick a person into revealing sensitive information to the attacker
+
+## 8. Cookies
 
 - A cookie is a small packet of information from a visited webserver stored on your system by your computer’s browser. It is designed to store personalized information in order to customize your next visit
