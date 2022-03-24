@@ -1,3 +1,4 @@
+
 <h1 align="center">Open Redirection</h1>
 
 
@@ -103,6 +104,20 @@ allinurl:<keyword>
 ## Lab Link
 
 `https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection`
+
+
+## Example Bounty Price
+
+
+![Web Archi](../photo/openBounty_1.png)
+
+<br>
+
+![Web Archi](../photo/openBounty_2.png)
+
+<br>
+
+![Web Archi](../photo/openBounty_3.png)
 
 
 
