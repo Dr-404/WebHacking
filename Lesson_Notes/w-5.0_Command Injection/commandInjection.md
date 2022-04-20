@@ -67,11 +67,23 @@ print
 ```
 
 
-# Labs Link
+
+<h1 align="center">Links for this lecture</h1>
+
+## My github Link
+
+`https://github.com/Dr-404/WebHacking`
+
+## Shell Link for exploit
+
+`https://github.com/Dr-404/WebHacking/tree/main/shells/AlphaShell`
+
+
+## Labs Link
 
 `http://lab.awh.zdresearch.com/`
 
-# Link for additional reading
+
 
 ## Command Injection Payloads
 ```
