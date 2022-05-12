@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<minder version="1.13.1">
+  <theme name="solarized_dark" label="Solarized Dark" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true" connectiondash="solid" connectionlwidth="3" connectionarrow="none" connectionpadding="4" connectionfont="Fira Code 12" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="2697.8911813220152" y="-130.61387423149608" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="532.26152253540795" posy="944.74650260877354" width="167" height="92" side="left" fold="false" treesize="2472" layout="To right" group="false">
+      <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+      <nodename posx="566.26152253540795" posy="978.74650260877354" maxwidth="200">
+        <text data="MPC Class"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="849.26152253540795" posy="188.74650260877388" width="212" height="128" side="right" fold="false" treesize="996" color="#37923a" colorroot="true" layout="To right" group="false">
+          <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="3" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="20" nodefont="Fira Code 14" nodemarkup="true"/>
+          <nodename posx="889.26152253540795" posy="228.74650260877388" maxwidth="200">
+            <text data="Linux Class (virtualBox)"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="2" posx="1211.2615225354079" posy="-187.25349739122612" width="244" height="116" side="right" fold="false" treesize="232" color="#2777ff" colorroot="true" layout="To right" group="false">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1245.2615225354079" posy="-153.25349739122612" maxwidth="200">
+                <text data="Office and Daily Use (bonus)"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="3" posx="1605.2615225354082" posy="-245.25349739122612" width="211" height="116" side="right" fold="false" treesize="116" color="#2777ff" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1639.2615225354082" posy="-211.25349739122612" maxwidth="200">
+                    <text data="Gnome Customization"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="4" posx="1605.2615225354082" posy="-129.25349739122612" width="189" height="116" side="right" fold="false" treesize="116" color="#2777ff" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1639.2615225354082" posy="-95.253497391226119" maxwidth="200">
+                    <text data="Office Use Application"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="5" posx="1211.2615225354079" posy="310.74650260877388" width="233" height="116" side="right" fold="false" treesize="764" color="#859900" colorroot="true" layout="To right" group="false">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1245.2615225354079" posy="344.74650260877388" maxwidth="200">
+                <text data="Linux Basic For Hacking"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="6" posx="1594.2615225354082" posy="102.74650260877388" width="266" height="92" side="right" fold="false" treesize="324" color="#859900" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1628.2615225354082" posy="136.74650260877388" maxwidth="200">
+                    <text data="Command Line Basic"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="7" posx="2010.261522535407" posy="-13.253497391226119" width="145" height="92" side="right" fold="false" treesize="92" color="#859900" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                      <nodename posx="2044.261522535407" posy="20.746502608773881" maxwidth="200">
+                        <text data="File Mx"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="8" posx="2010.261522535407" posy="78.746502608773881" width="189" height="116" side="right" fold="false" treesize="116" color="#859900" colorroot="true" layout="To right" group="false">
+                      <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                      <nodename posx="2044.261522535407" posy="112.74650260877388" maxwidth="200">
+                        <text data="File system Hierarchy"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="9" posx="2010.261522535407" posy="194.74650260877388" width="255" height="116" side="right" fold="false" treesize="116" color="#859900" colorroot="false" layout="To right" group="false">
+                      <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                      <nodename posx="2044.261522535407" posy="228.74650260877388" maxwidth="200">
+                        <text data="Essential Command For Hacking"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="10" posx="1594.2615225354082" posy="310.74650260877388" width="244" height="92" side="right" fold="false" treesize="92" color="#859900" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1628.2615225354082" posy="344.74650260877388" maxwidth="200">
+                    <text data="Netwroking Basic"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="11" posx="1594.2615225354082" posy="402.74650260877388" width="222" height="116" side="right" fold="false" treesize="116" color="#859900" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1628.2615225354082" posy="436.74650260877388" maxwidth="200">
+                    <text data="User and Group permission Mx"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="12" posx="1594.2615225354082" posy="518.74650260877388" width="178" height="92" side="right" fold="false" treesize="92" color="#859900" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1628.2615225354082" posy="552.74650260877388" maxwidth="200">
+                    <text data="Process Mx"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="13" posx="1594.2615225354082" posy="610.74650260877434" width="266" height="140" side="right" fold="false" treesize="140" color="#859900" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1628.2615225354082" posy="644.74650260877434" maxwidth="200">
+                    <text data="Tools Installation and using including Python "/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="849.26152253540795" posy="1442.7465026087737" width="189" height="92" side="right" fold="false" treesize="1476" color="#6c71c4" colorroot="true" layout="To right" group="false">
+          <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+          <nodename posx="883.26152253540795" posy="1476.7465026087737" maxwidth="200">
+            <text data="Web-hacking"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="15" posx="1188.2615225354079" posy="888.74650260877365" width="233" height="164" side="right" fold="false" treesize="440" color="#6c71c4" colorroot="false" layout="To right" group="true">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1222.2615225354079" posy="922.74650260877365" maxwidth="200">
+                <text data="Basic Knowledge for General Hacking and Pentesting"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="16" posx="1571.2615225354079" posy="750.74650260877434" width="255" height="116" side="right" fold="false" treesize="116" color="#6c71c4" colorroot="false" layout="To right" group="true">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1605.2615225354079" posy="784.74650260877434" maxwidth="200">
+                    <text data="Google Hacking or Google dorking"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="17" posx="1571.2615225354079" posy="866.74650260877365" width="189" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1605.2615225354079" posy="900.74650260877365" maxwidth="200">
+                    <text data="Methodology"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="18" posx="1571.2615225354079" posy="958.74650260877365" width="167" height="116" side="right" fold="false" treesize="116" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1605.2615225354079" posy="992.74650260877365" maxwidth="200">
+                    <text data="How to be Anonymous"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="19" posx="1571.2615225354079" posy="1074.7465026087737" width="200" height="116" side="right" fold="false" treesize="116" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1605.2615225354079" posy="1108.7465026087737" maxwidth="200">
+                    <text data="Kali Linux Installation"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="20" posx="1188.2615225354079" posy="1282.7465026087737" width="222" height="116" side="right" fold="false" treesize="300" color="#6c71c4" colorroot="false" layout="To right" group="false">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1222.2615225354079" posy="1316.7465026087737" maxwidth="200">
+                <text data="Foundation for webhacking"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="21" posx="1560.2615225354079" posy="1190.7465026087737" width="189" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1594.2615225354079" posy="1224.7465026087737" maxwidth="200">
+                    <text data="Terminology"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="22" posx="1560.2615225354079" posy="1282.7465026087737" width="211" height="116" side="right" fold="false" treesize="116" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1594.2615225354079" posy="1316.7465026087737" maxwidth="200">
+                    <text data="Basic Web Architecuture"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="23" posx="1560.2615225354079" posy="1398.7465026087737" width="222" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1594.2615225354079" posy="1432.7465026087737" maxwidth="200">
+                    <text data="XAMPP, Sublime"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="24" posx="1188.2615225354079" posy="1490.7465026087737" width="167" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1222.2615225354079" posy="1524.7465026087737" maxwidth="200">
+                <text data="BurpSuite"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="1188.2615225354079" posy="1846.7465026087737" width="266" height="116" side="right" fold="false" treesize="644" color="#6c71c4" colorroot="false" layout="To right" group="false">
+              <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+              <nodename posx="1222.2615225354079" posy="1880.7465026087737" maxwidth="200">
+                <text data="Web Vulnearbilty and Practical Labs"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="26" posx="1604.2615225354082" posy="1582.7465026087737" width="255" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="1616.7465026087737" maxwidth="200">
+                    <text data="Command Injection"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="27" posx="1604.2615225354082" posy="1674.7465026087737" width="156" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="1708.7465026087737" maxwidth="200">
+                    <text data="LFI, RFI"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="28" posx="1604.2615225354082" posy="1766.7465026087737" width="211" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="1800.7465026087737" maxwidth="200">
+                    <text data="SQL injection"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="29" posx="1604.2615225354082" posy="1858.7465026087737" width="233" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="1892.7465026087737" maxwidth="200">
+                    <text data="URL redirection"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="30" posx="1604.2615225354082" posy="1950.7465026087741" width="101" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="1984.7465026087741" maxwidth="200">
+                    <text data="XSS"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="31" posx="1604.2615225354082" posy="2042.7465026087743" width="178" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="2076.7465026087743" maxwidth="200">
+                    <text data="CSRF, SSRF"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="32" posx="1604.2615225354082" posy="2134.7465026087743" width="233" height="92" side="right" fold="false" treesize="92" color="#6c71c4" colorroot="false" layout="To right" group="false">
+                  <style branchmargin="150" branchradius="25" linktype="curved" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="7" nodefill="false" nodemargin="20" nodepadding="14" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <nodename posx="1638.2615225354082" posy="2168.7465026087743" maxwidth="200">
+                    <text data="And Many others"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups>
+    <group color="#6c71c4">
+      <node id="16"/>
+    </group>
+  </groups>
+  <stickers/>
+</minder>
