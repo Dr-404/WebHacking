@@ -1,1 +1,3 @@
-This repository is created for my webHacking Class
+# Myanmar Pentester Community Linux and Webhacking Class
+
+## Instructor - Dr.404
