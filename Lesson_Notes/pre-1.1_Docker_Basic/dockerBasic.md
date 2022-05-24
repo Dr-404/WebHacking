@@ -68,7 +68,7 @@ sudo docker run imageid
 
 `docker run --name portainer -p 9000:9000 -v "/var/run/docker.sock:/var/run/docker.sock"`
 
-###Notes
+### Notes
 > * you can use my portianer script to run portainer
 > * please disconnect VPN otherwise localhost did not work 
 > * you can use docker ip and port instead of localhost and local port
