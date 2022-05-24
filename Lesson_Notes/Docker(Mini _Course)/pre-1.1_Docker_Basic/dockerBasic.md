@@ -4,11 +4,11 @@
 
 [Referece Photo Link](Ref:https://www.accenture.com/us-en/blogs/software-engineering-blog/shinde-docker-containerization-devops)
 
-![Docker Explain](../photo/docker.png)
+![Docker Explain](../../photo/docker.png)
 
 ## Docker images VS Container
 
-![ContVsImage](../photo/docker2.png)
+![ContVsImage](../../photo/docker2.png)
 
 ## Install Docker and skopeo on Linux
 `sudo apt install docker.io`
