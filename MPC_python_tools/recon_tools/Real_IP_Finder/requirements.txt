@@ -1,0 +1,8 @@
+
+requests
+colorama
+colorama 
+termcolor 
+colored
+cprint
+pyfiglet
