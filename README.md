@@ -10,7 +10,7 @@
 
 - You can read all class lecture notes in [Lesson_Notes](./lesson_notes) 
 
-- You can read Docker Course notes in [Docker](./lesson_notes/Docker(Mini_Course))  
+- You can read Docker Course notes in [Docker](./lesson_notes/Docker_Mini _Course)  
 
 - If you are not MPC student, You can view and find couse ouline in [Course_Outline](./course_outline)
 
