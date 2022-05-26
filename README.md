@@ -16,7 +16,7 @@
 
 - You can download Dr.404 python Tools in [Dr.404 tools](./MPC_python_tools) but please give credit for commucial use
 
-- You can download shells in [shell](./shells) (This shell is not own by MPC, C
+- You can download shells in [shell](./shells) (This shell is not own by MPC, Credit to original uploader)
 
 - You can view research paper (Acedamic Purpose) about hacking and pentesting in [Research Paper](./lesson_notes/Paper)
 
