@@ -24,31 +24,26 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 #### CRUD operation
 
 <table>
-
 	<tr>
 		<th> No </th>
 		<th> CURD Operation </th>
 		<th> SQL command </th>
 	</tr>
-
 	<tr>
 		<td> 1 </td>
 		<td>Create</td>
 		<td>INSERT<td>
 	</tr>
-
 	<tr>
 		<td> 2 </td>
 		<td>READ</td>
 		<td>SELECT<td>
 	</tr>
-
 	<tr>
 		<td> 3 </td>
 		<td>UPDATE</td>
 		<td>UPDATE<td>
 	</tr>
-
 	<tr>
 		<td> 4 </td>
 		<td>DELETE</td>
@@ -59,5 +54,8 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
 </table>
 
-
+1. Create (INSERT)
+2. Read (SELECT)
+3. Update (UPDATE)
+4. Delete (DELETE)
 
