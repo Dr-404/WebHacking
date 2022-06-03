@@ -32,22 +32,22 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 	<tr>
 		<td> 1 </td>
 		<td>Create</td>
-		<td>INSERT<td>
+		<td>INSERT</td>
 	</tr>
 	<tr>
 		<td> 2 </td>
 		<td>READ</td>
-		<td>SELECT<td>
+		<td>SELECT</td>
 	</tr>
 	<tr>
 		<td> 3 </td>
 		<td>UPDATE</td>
-		<td>UPDATE<td>
+		<td>UPDATE</td>
 	</tr>
 	<tr>
 		<td> 4 </td>
 		<td>DELETE</td>
-		<td>DELETE<td>
+		<td>DELETE</td>
 	</tr>
 
 
