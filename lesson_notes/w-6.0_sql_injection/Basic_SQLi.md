@@ -59,7 +59,7 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
 ## SQL language structure
 
-** SELECT <i>something</i> ** FROM <i>table</i> ** WHERE <i>conditions</i> ** GROUP BY <i>aggragate_condition</i> ** Having <i>aggreate_condition</i> ** ORDER BY <i>order_field</i>	
+**SELECT** <i>something</i> **FROM** <i>table</i> **WHERE** <i>conditions</i> **GROUP BY** <i>aggragate_condition</i> **Having** <i>aggreate_condition</i> **ORDER BY** <i>order_field</i>	
 
 ## SQL command flow chart
 
