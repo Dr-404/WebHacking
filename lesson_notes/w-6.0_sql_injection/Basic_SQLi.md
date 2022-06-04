@@ -23,7 +23,7 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
 #### CRUD operation
 
-><table>
+<table>
 	<tr>
 		<th> No </th>
 		<th> CURD Operation </th>
