@@ -120,9 +120,9 @@ WHERE price > 100
 ## Most used query in SQL injection
 
 #### 1.UNION
->```
->SELECT 1,2,3 UNION 4,5,6
->```
+```
+SELECT 1,2,3 UNION 4,5,6
+```
 
 
 * numbers of column must be match
@@ -130,29 +130,29 @@ WHERE price > 100
 * same order
 * can use in finding number of column (not common)
 
->#### Demonstartion using university_small database
+#### Demonstartion using university_small database
 
 * Look lecture video and try to understan how union operator work
 * There was two table **instructor** and **course**
 
->**Select from only one table**
+**Select from only one table**
 
->`SELECT * from insturcotr;`
+`SELECT * from insturcotr;`
 
->**Using union select and extract data from difference table**
+**Using union select and extract data from difference table**
 
->`select * from instructor union select course_ID,title,dept_name,credits from course;`
+`select * from instructor union select course_ID,title,dept_name,credits from course;`
 
  
 #### 2. Using **TRUE** condition and extract data from table
 
-> **Normal_Query**
+ **Normal_Query**
 
->`SELECT * FROM instructor WHERE id=10101`
+`SELECT * FROM instructor WHERE id=10101`
 
-> **INJECTION** 
+ **INJECTION** 
 
->`select * from instructor where id=0 or 1=1;`
+`select * from instructor where id=0 or 1=1;`
 
 
 #### 3. ORDER BY
