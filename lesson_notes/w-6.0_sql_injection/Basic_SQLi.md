@@ -6,7 +6,7 @@
 
 
 
-![Web Archi](../photo/sqli.png)
+![Basic SQL](../photo/sqli.png)
 
 photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
@@ -23,7 +23,7 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
 #### CRUD operation
 
-<table>
+><table>
 	<tr>
 		<th> No </th>
 		<th> CURD Operation </th>
@@ -63,7 +63,7 @@ photo credit to [orginal_Link](https://www.cloudprotector.com/sql-injection/)
 
 ## SQL command flow chart
 
-![Web Archi](../photo/sqli2.png)
+![SQL Flow Chart](../photo/sqli2.png)
 
 Credit to original photo [Stackoverflow](https://stackoverflow.com/questions/20940363/how-do-you-read-sqlite3-diagrams-flowcharts)
 
@@ -110,34 +110,73 @@ Find the brand price of computer from shop which is more than 1000 USD
 </table>
 
 #### Exampl SQL query
-
-``` 
-SELECT  brand, price 
-FROM shop  
-WHERE price > 1000
+```
+SELECT  brand, price
+FROM shop
+WHERE price > 100
 ```
 
-##Most used query in SQL injection
+
+## Most used query in SQL injection
 
 #### 1.UNION
+>```
+>SELECT 1,2,3 UNION 4,5,6
+>```
 
-```
-SELECT 1,2,3 UNION 4,5,6
-```
+
 * numbers of column must be match
 * similar data type
 * same order
 * can use in finding number of column (not common)
 
-#### 2. ORDER BY
+>#### Demonstartion using university_small database
+
+* Look lecture video and try to understan how union operator work
+* There was two table **instructor** and **course**
+
+>**Select from only one table**
+
+>`SELECT * from insturcotr;`
+
+>**Using union select and extract data from difference table**
+
+>`select * from instructor union select course_ID,title,dept_name,credits from course;`
+
+ 
+#### 2. Using **TRUE** condition and extract data from table
+
+> **Normal_Query**
+
+>`SELECT * FROM instructor WHERE id=10101`
+
+> **INJECTION** 
+
+>`select * from instructor where id=0 or 1=1;`
+
+
+#### 3. ORDER BY
 
 * Use to find the nubmer of column
 
-#### 3. (-- or --+)
+#### 4. (-- or --+)
 * Sql comment (to comment out all the query behind this)
 
-#### 4. Database()
+#### 5. Database()
 * show database name
 
-#### 5. user()
+#### 6. user()
 * show database username
+
+
+
+
+
+## Type of SQL injection
+
+
+
+![SQL Type](../photo/sqli3.png)
+
+Credit to [purpelbox_paper](https://medium.com/purplebox/sql-injection-da949c39dbe6)
+
