@@ -13,7 +13,7 @@
 1. Intercept the proxy with burp and scan to obtain parameter  (identify all the data entry on the Web application)
 2. Visit throughly web application 
 
-**Main Parameter of Injection**
+* Main Parameter of Injection
 
 
 1. GET Parameter
