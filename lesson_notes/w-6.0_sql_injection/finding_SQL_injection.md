@@ -5,7 +5,7 @@
 1. Find parameter to inject
 2. Identify the vulnerability
 3. Enumerabe data from the database
-4. Uplaoad a backdoor
+4. Upload a backdoor
 
 
 ## 1. Finding Parameter
@@ -32,12 +32,43 @@ values to create graphs, for example, and store them in databases. In such cases
 those headers for potential injection vulnerabilities.</i>
 
 
+
 ## 2. Identify the vulnerability
 
-1. Manipulating Parameters
+1. Manipulating Parameters and  making application error
 
 `http://testphp.vulnweb.com/listproducts.php?artist=1`
 
-2. Making application error
+2. Identify error and type of database
 
-2
+Example Error
+
+`You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ‘‘VALUE’’.`
+
+
+This Error Show
+* Database Name = 'MySql'
+* Exact syntax caused error = single quote
+* Where error occured = after the parameter value
+* 
+## 3. Enumearting Database
+
+![SQL Flow Chart](../photo/sqli4.png)
+
+
+
+## Finding Table Name
+
+```
+SELECT GROUP_CONCAT(table_name)
+FROM information_schema.tables
+WHERE table_schema=database()
+```
+
+## Finding Column Name
+
+```
+(SELECT GROUP_CONCAT(column_name)
+FROM information_schema.columns 
+WHERE table_name='users')
+```
