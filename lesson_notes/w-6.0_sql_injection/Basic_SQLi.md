@@ -165,6 +165,8 @@ SELECT 1,2,3 UNION SELECT 4,5,6;
 
 GROUP_CONCAT() function is used to concatenate all the rows of the returned result
 
+`select * from instructor union select group_concat(name,' : ', ID),2,3,4 from instructor;`
+
 #### 3. ORDER BY
 
 * Use to find the nubmer of column
