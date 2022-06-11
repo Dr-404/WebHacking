@@ -170,6 +170,7 @@ GROUP_CONCAT() function is used to concatenate all the rows of the returned resu
 #### 3. ORDER BY
 
 * Use to find the nubmer of column
+
 `select * from instructor order by 4;`
 
 #### 4. (-- or --+)
