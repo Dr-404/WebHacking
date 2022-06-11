@@ -123,7 +123,7 @@ WHERE price > 1000
 ```
 SELECT 1,2,3 UNION SELECT 4,5,6;
 ```
-example query using database
+#### example query using database
 
 `select * from instructor union select 1,2,3,4;`
 
