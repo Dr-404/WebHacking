@@ -123,10 +123,6 @@ WHERE price > 1000
 ```
 SELECT 1,2,3 UNION SELECT 4,5,6;
 ```
-#### example query using database
-
-`select * from instructor union select 1,2,3,4;`
-
 
 * numbers of column must be match
 * similar data type
@@ -142,9 +138,17 @@ SELECT 1,2,3 UNION SELECT 4,5,6;
 
 `SELECT * from insturcotr;`
 
+
+
 **Using union select and extract data from difference table**
 
 `select * from instructor union select course_ID,title,dept_name,credits from course;`
+
+#### example query finding column count
+
+`select * from instructor union select 1,2,3,4;`
+
+
 
  
 #### 2. Using **TRUE** condition and extract data from table
