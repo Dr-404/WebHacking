@@ -69,7 +69,7 @@ Credit to original photo [Stackoverflow](https://stackoverflow.com/questions/209
 
 ## Exampl SQL Command
 
-Find the brand price of computer from shop which is more than 1000 USD
+Find the brand and price of computer from shop which is more than 1000 USD
 
 #### Example Database <br>
 
@@ -113,7 +113,7 @@ Find the brand price of computer from shop which is more than 1000 USD
 ```
 SELECT  brand, price
 FROM shop
-WHERE price > 100
+WHERE price > 1000
 ```
 
 
@@ -154,6 +154,9 @@ SELECT 1,2,3 UNION 4,5,6
 
 `select * from instructor where id=0 or 1=1;`
 
+#### 3. GROUP_CONCAT or CONCAT
+
+GROUP_CONCAT() function is used to concatenate all the rows of the returned result
 
 #### 3. ORDER BY
 
