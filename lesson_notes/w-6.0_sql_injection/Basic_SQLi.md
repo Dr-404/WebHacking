@@ -121,7 +121,7 @@ WHERE price > 1000
 
 #### 1.UNION
 ```
-SELECT 1,2,3 UNION 4,5,6
+SELECT 1,2,3 UNION SELECT 4,5,6;
 ```
 
 
