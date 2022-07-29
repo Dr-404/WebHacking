@@ -2,9 +2,9 @@
 
 #### Credit `@dnsprincess` for all methodology
 
->1. Avoiding avoid detection 
->2. Disrupting the collection of information
->3. Incresing the time that examiner to spend on a case
+1. Avoiding detection 
+2. Disrupting the collection of information
+3. Incresing the time that examiner to spend on a case
 
 
 # General Methodology
@@ -18,40 +18,40 @@
 ## Level of Hiding
 
 #### 1. From Your family (security controls)
-> eg. Privat content
-> * Use Vaulit application or change extension
-> * Low anit-forensic use
-> * Tools easily found online
-> 
+eg. Privat content
+* Use Vaulit application or change extension
+* Low anit-forensic use
+* Tools easily found online
+
 
 #### 2. Local Authorithies (Obfuscate)
-> eg. Small incidents
-> * They may understand beginner level forensics
-> * They use package like Cellebrite, Autospsy, etc...
-> * Tools dependent
-> * Mildly intrusive anti-forensics
+eg. Small incidents
+* They may understand beginner level forensics
+* They use package like Cellebrite, Autospsy, etc...
+* Tools dependent
+* Mildly intrusive anti-forensics
 
-> Our Tools
-> * Hex editor
-> * Forensic packages
-> * Removal media
-> * Decoy, Fasle fruit
+Our Tools
+* Hex editor
+* Forensic packages
+* Removal media
+* Decoy, Fasle fruit
 
 
 #### 3. Special Agent (???) (unusable evidence)
-> eg. Interstate Action ??
-> More proficients, not tool dependent
-> 
-> Our Tools
-> * End-to-End Enryption
-> * Autopsy
-> * SpiderOak
-> * Bunner device
-> * Soldered storage media
+eg. Interstate Action ??
+More proficients, not tool dependent
+
+Our Tools
+* End-to-End Enryption
+* Autopsy
+* SpiderOak
+* Bunner device
+* Soldered storage media
 
 #### 4. Nation or State Op?? (burn)
-> Espionage
-> Bun all down
+Espionage
+Bun all down
 
 
 #### Strategy
@@ -64,13 +64,16 @@
 
 ## Your Family, Local Auth
 
->#### 1. Renaming file extension (Your Family, Local Auth)
->#### 2. Vault App (Forensive Tools can easily found  )
->#### 3. Changing file header - Forensics software can detect file header
->#### 4. Steganography
-> Don't Leave any trace of stego application on your system
-> Check against Stegdetect
-> StegFS in Linux
+#### 1. Renaming file extension (Your Family, Local Auth)
+#### 2. Vault App (Forensive Tools can easily found  )
+#### 3. Changing file header - Forensics software can detect file header
+#### 4. Steganography
+```
+Don't Leave any trace of stego application on your system
+Check against Stegdetect
+StegFS in Linux
+```
+
 ## Special Agent && Nation State ??
 
 #### 5. Shredding - Completely Delete and Overwirte Disk Space 
@@ -88,41 +91,44 @@
 
 #### 1. Misdirection
 
->1. Renaming File extension
->2. Changing file header
->3. Timestomping
->
+1. Renaming File extension
+2. Changing file header
+3. Timestomping
+
 
 #### 2. Encryption
 
->1. aescrypt (GUI + CLI)
->
+1. aescrypt (GUI + CLI)
+
 
 #### 3. File Wiping (Shredding)
 
-1. <b>Normal Data Wipe</b>
-> use bleachbit
+<b>Normal Data Wipe</b>
 
-><b>In linux<b>
->
-> `sudo apt install bleachbit`
+- use bleachbit
 
-2. <b> US DOD (Department of Defense) standard Wiping </b>
->1. Overwrit Drive with 0
->2. Overwirt Drive with 1
->3. Overwerit Drive with Random Data
->
->Elliot use this standard in Mr. Robot Series
+<b>In linux<b>
+
+`sudo apt install bleachbit`
+
+<b> US DOD (Department of Defense) standard Wiping </b>
+
+- Overwrit Drive with 0
+- Overwirt Drive with 1
+- Overwerit Drive with Random Data
+
+Elliot use this standard in Mr. Robot Series
 
 
->`shred -f -n 3 test.txt`
+`shred -f -n 3 test.txt`
 
 
-> ```
-> f  = Forces the change of permission
 
->n  = overwirte times
-> ```
+```
+f  = Forces the change of permission
+
+n  = overwirte times
+```
 
 
 
