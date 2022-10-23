@@ -11,10 +11,13 @@
 ## `length()`
 
 - Return the length of the string, in bytes
-- Syntax
-- `LENGTH(string)`
-	- eg. `SELECT LENGTH("SQL Tutorial");`
-	- eg. `SELECT LENGTH(databse());`
+
+#### Syntax
+
+`LENGTH(string)`
+
+- eg. `SELECT LENGTH("SQL Tutorial");`
+- eg. `SELECT LENGTH(databse());`
 
 
 
@@ -22,11 +25,12 @@
 
 - The `SUBSTRING()` function extracts a substring from a string (starting at any position).
 
-- Syntax
+#### Syntax
 
-- `SUBSTRING(string, start, length)`
-	- eg. `SUBSTRING("sqltest",2,3;)`
-	- eg. `SUBSTRING(database(),1,1)`
+`SUBSTRING(string, start, length)`
+
+- eg. `SUBSTRING("sqltest",2,3;)`
+- eg. `SUBSTRING(database(),1,1)`
 
 
 
@@ -35,15 +39,17 @@
 
 - The ASCII() function returns the ASCII value for the specific character
 
-- Syntax
-- `ASCII(character)`
+#### Syntax
+
+`ASCII(character)`
 
 ## `CHAR()`
 
 -  `CHAR()` returns the character value of the given integer value according to the ASCII table
 
-- Syntax
-- `CHAR(ASCII number)`
+#### Syntax
+
+`CHAR(ASCII number)`
 
 # Practical Lab Training 
 
