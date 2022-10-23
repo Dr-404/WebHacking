@@ -1,6 +1,5 @@
-<h1 align="center">Blind SQL Injection</h1>
+<h1 align="center">Blind (Boolean-Based) SQL Injection</h1>
 
-# Blind (Boolean-Based) SQL Injection
 
 - Blind SQL (Structured Query Language) injection is a type of SQL Injection attack that asks the database true or false questions and determines the answer based on the applications response
 
