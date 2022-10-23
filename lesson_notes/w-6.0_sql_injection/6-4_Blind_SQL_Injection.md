@@ -51,7 +51,9 @@
 
 `CHAR(ASCII number)`
 
-# Practical Lab Training 
+<br>
+
+<h1 align="center">Practical Lab Training </h1>
 
 
 `In this session, We used SQLi Lab Lesson-8`
