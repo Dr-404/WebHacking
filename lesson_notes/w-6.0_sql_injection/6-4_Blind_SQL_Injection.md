@@ -124,10 +124,10 @@
 
 
 
-<h1> Time-Based Injection</h1>
+<h1 align="center"> Time-Based Injection</h1>
 
 
-# Mostly same as Boolean Based Injection and used SQLI lab `lesson 10`
+## Mostly same as Boolean Based Injection and used SQLI lab `lesson 10`
 
 
 
