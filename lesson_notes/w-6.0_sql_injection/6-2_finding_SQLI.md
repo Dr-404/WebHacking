@@ -4,7 +4,7 @@
 
 1. Find parameter to inject
 2. Identify the vulnerability
-3. Enumerabe data from the database
+3. Enumerate data from the database
 4. Upload a backdoor
 
 

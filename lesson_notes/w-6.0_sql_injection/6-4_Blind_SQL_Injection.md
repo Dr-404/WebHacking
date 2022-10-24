@@ -1,5 +1,6 @@
-<h1 align="center">Blind (Boolean-Based) SQL Injection</h1>
+<h1 align="center">Blind SQL Injection</h1>
 
+# Boolean Based SQL Injection
 
 - Blind SQL (Structured Query Language) injection is a type of SQL Injection attack that asks the database true or false questions and determines the answer based on the applications response
 
@@ -50,9 +51,25 @@
 
 `CHAR(ASCII number)`
 
+
+## `IF()`
+
+- The IF() function returns a value if a condition is TRUE, or another value if a condition is FALSE
+
+#### Syntax
+
+`IF(condition, value_if_true, value_if_false)`
+
+- eg. ` IF(500<1000, "YES", "NO")`
+
+
+
+
+
 <br>
 
-<h1 align="center">Practical Lab Training </h1>
+
+<h1 align="center">Practical Lab (Boolean-Based) Training </h1>
 
 
 `In this session, We used SQLi Lab Lesson-8`
@@ -107,7 +124,18 @@
 
 
 
+<h1> Time-Based Injection</h1>
 
+
+# Mostly same as Boolean Based Injection and used SQLI lab `lesson 10`
+
+
+
+## Payload
+
+`" or if(100<200,sleep(10),Null)-- `
+
+`" or if(ascii(substring(database(),1,1)) = 115,sleep(10),Null)-- -`
 
 
 
