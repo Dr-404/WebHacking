@@ -1,7 +1,8 @@
  
 [![made-with-html](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://www.python.org/)
 
-https://img.shields.io/badge/Instructor%20-Dr.404-brightgreen
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="20" role="img" aria-label="Instructor: Dr.404"><title>Instructor: Dr.404</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="114" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="65" height="20" fill="#555"/><rect x="65" width="49" height="20" fill="#4c1"/><rect width="114" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="335" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="550">Instructor</text><text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="550">Instructor</text><text aria-hidden="true" x="885" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="390">Dr.404</text><text x="885" y="140" transform="scale(.1)" fill="#fff" textLength="390">Dr.404</text></g></svg>
 
 
 
