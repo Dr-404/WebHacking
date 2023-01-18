@@ -63,7 +63,7 @@ document.getElementById('form1').submit();
 
 ## Labs Steps
 
-1. Construct `CSRF Form` manaully or using burp suite  `engagement tools (csrf PoC`.
+1. Construct `CSRF Form` manaully or using burp suite  `engagement tools (csrf PoC)`.
 
 2. Run web server and send the link to victim
 
