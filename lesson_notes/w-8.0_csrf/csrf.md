@@ -1,7 +1,7 @@
  
-[![made-with-html](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://www.python.org/)
+[![made-with-html](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)](https://html.com/)
 
-[![instructure-dr.404](https://img.shields.io/badge/Instructor-Dr.404-brightgreen)]
+[![instructure-dr.404](https://img.shields.io/badge/Instructor-Dr.404-brightgreen)](https://www.facebook.com/htunaungkyawMPC)
 
 
 
