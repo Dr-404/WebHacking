@@ -55,14 +55,14 @@ fpassthru($image);}
 
 ## Common parameter for `SSRF`
 
-![finding_ssrf1](../photo/ssrf3)
+![finding_ssrf1](../photo/ssrf3.png)
 
 ##  Find full URL is used in a parameter in the address bar
 
-![Finding_ssrf2](../photo/ssrf4)
+![Finding_ssrf2](../photo/ssrf4.png)
 
 ## Find path of the URL
-![Finding_ssrf3](../photo/ssrf5)
+![Finding_ssrf3](../photo/ssrf5.png)
 
 [Reference: https://tryhackme.com/room/ssrfqi](https://tryhackme.com/room/ssrfqi)
 
