@@ -51,6 +51,21 @@ fpassthru($image);}
 - Regular SSRF (In Band)
 - Blind SSRF (Out-of-Band)
 
+# How to find `SSRF`
+
+## Common parameter for `SSRF`
+
+![finding_ssrf1](../photo/ssrf3)
+
+##  Find full URL is used in a parameter in the address bar
+
+![Finding_ssrf2](../photo/ssrf4)
+
+## Find path of the URL
+![Finding_ssrf3](../photo/ssrf5)
+
+[Reference: https://tryhackme.com/room/ssrfqi](https://tryhackme.com/room/ssrfqi)
+
 
 
 ## Impact of `SSRF`
@@ -63,6 +78,9 @@ fpassthru($image);}
 
 - Denail of Service (DoS)
 - Remote Code Execution
+
+
+
 
 ## Exploitation
 
