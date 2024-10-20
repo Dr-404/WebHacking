@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+Tool Creater      :  Dr.404 
+Tools Version     :  1.0.1
+Organization      :  Myanmar Pentester Community
+
 Google Search Scraper for HackerOne Reports
 
 This tool allows you to scrape Google search results to find reports on hackerone.com based on an intext query.
